@@ -12,8 +12,8 @@ PaLI( 구글-ScreenAI ), Qwen-VL(알리바바)는 이를 direct training, 동결
 위의 방법 문제: 원래 잘하던 분야의 성능이 매우 악화됨
 ex) 7B 언어모델로 vlm 훈련을 하면 자연어 생성 능력이 87퍼센트 떨어짐
 
-rien_n_est
-12h
+
+
 arxiv.org/abs/2…
 시각적 이해에 대한 능력을 향상시키면서 NLP 능력들을 잃지 않는게 가능한가? ->
 가능함(P-Tuning과 LoRA 비교에서 영감을 받음)
