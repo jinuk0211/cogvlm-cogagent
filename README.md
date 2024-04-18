@@ -54,3 +54,7 @@ LAION-400M을 필터링한 -> LAION-115M으로 text- image 쌍 샘플링함
 
 alignment
 
+
+cogagent
+2-1. architecture
+![image](https://github.com/jinuk0211/cogvlm-cogagent/assets/150532431/6858b830-d686-4f2b-b504-80d11363e821)
